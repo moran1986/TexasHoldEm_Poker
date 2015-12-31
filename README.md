@@ -7,3 +7,5 @@ Running this program requires installing Pygame which can be found at http://www
 This was my term project for a six-week summer course at Pasadena City College called Python Programming. 
 It took around a week to complete. 
 Challenges included managing the pot, assessing players' hands, and processing player commands (i.e. bet, call, all in, fold).
+
+Please see stills 1,2,3,4, & 5 to see how the program runs.
